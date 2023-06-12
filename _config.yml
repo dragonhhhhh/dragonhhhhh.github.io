@@ -3,8 +3,8 @@ author: 龙航 # name of site's author
 email: longhang2000@qq.com # email of site's author
 url: dragonhhhhh.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > 无 # description of the site (multiple lines allowed)
-
+description: > # description of the site (multiple lines allowed)
+  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
 permalink: /:slug.html
 
