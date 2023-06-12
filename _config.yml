@@ -1,10 +1,10 @@
 title: 龙航的个人主页 # name of the site
 author: 龙航 # name of site's author
 email: longhang2000@qq.com # email of site's author
-url: https://riggraz.dev # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-无
+url: dragonhhhhh.github.io # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > 无 # description of the site (multiple lines allowed)
+
 
 permalink: /:slug.html
 
