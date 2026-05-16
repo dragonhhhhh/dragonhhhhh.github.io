@@ -15,7 +15,7 @@ entries:
   - title: Navigation
     entries:
       - title: Research
-        url: /research/
+        url: /research
       - title: CV
         url: /assets/cv.pdf
       - title: GitHub
