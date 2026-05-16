@@ -4,7 +4,8 @@ email: longhang2000@yeah.net # email of site's author
 url: https://dragonhhhhh.github.io # root address of the site
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Personal website of Hang Long, a Ph.D. candidate at UIBE. 
+  Research interests include International Economics and Spatial Economics.
 
 permalink: /:slug.html
 
