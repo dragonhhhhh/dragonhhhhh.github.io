@@ -1,5 +1,10 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
+main:
+  - name: "Home"
+    url: "/"
+  - name: "Research"
+    url: "/research/"
 
 entries:
   - title: info
